@@ -1,0 +1,2 @@
+# birthday_wisher
+ The Birthday Wisher Bot is an automated Python script that checks a CSV file daily for birthdays and sends personalized email greetings to those celebrating. Using pandas for data handling, smtplib for email functionality, and apscheduler for scheduling, the bot reads names and emails, personalizes a message from a template, and sends it via Gmail. Designed to run daily, it ensures no birthdays are missed with minimal manual intervention.
